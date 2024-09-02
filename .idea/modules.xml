@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/02-ContadorDeLetras/ContadorDeLetras.iml" filepath="$PROJECT_DIR$/02-ContadorDeLetras/ContadorDeLetras.iml" />
+      <module fileurl="file://$PROJECT_DIR$/01-Fibonacci/Fibonacci.iml" filepath="$PROJECT_DIR$/01-Fibonacci/Fibonacci.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.targetSistem.iml" filepath="$PROJECT_DIR$/com.targetSistem.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03-soma/soma.iml" filepath="$PROJECT_DIR$/03-soma/soma.iml" />
+    </modules>
+  </component>
+</project>
